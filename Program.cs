@@ -6,6 +6,7 @@
         {
             Creational.Factory();
             Creational.AbstractFactory();
+            Creational.Builder();
         }
     }
 }
