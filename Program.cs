@@ -11,6 +11,7 @@
             Creational.Singleton();
 
             Structural.Adapter();
+            Structural.Bridge();
         }
     }
 }
