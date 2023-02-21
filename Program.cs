@@ -9,6 +9,8 @@
             Creational.Builder();
             Creational.Prototype();
             Creational.Singleton();
+
+            Structural.Adapter();
         }
     }
 }
