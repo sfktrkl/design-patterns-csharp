@@ -8,6 +8,7 @@
             Creational.AbstractFactory();
             Creational.Builder();
             Creational.Prototype();
+            Creational.Singleton();
         }
     }
 }
