@@ -12,6 +12,7 @@
 
             Structural.Adapter();
             Structural.Bridge();
+            Structural.Composite();
         }
     }
 }
