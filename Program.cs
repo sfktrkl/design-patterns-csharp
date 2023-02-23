@@ -14,6 +14,7 @@
             Structural.Bridge();
             Structural.Composite();
             Structural.Decorator();
+            Structural.Facade();
         }
     }
 }
