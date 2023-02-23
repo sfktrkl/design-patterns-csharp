@@ -15,6 +15,7 @@
             Structural.Composite();
             Structural.Decorator();
             Structural.Facade();
+            Structural.Flyweight();
         }
     }
 }
