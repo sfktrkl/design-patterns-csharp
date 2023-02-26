@@ -17,6 +17,8 @@
             Structural.Facade();
             Structural.Flyweight();
             Structural.Proxy();
+
+            Behavioral.ChainofResponsibility();
         }
     }
 }
