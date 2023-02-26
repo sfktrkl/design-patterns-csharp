@@ -19,6 +19,7 @@
             Structural.Proxy();
 
             Behavioral.ChainofResponsibility();
+            Behavioral.Command();
         }
     }
 }
