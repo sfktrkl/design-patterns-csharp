@@ -21,6 +21,7 @@
             Behavioral.ChainofResponsibility();
             Behavioral.Command();
             Behavioral.Iterator();
+            Behavioral.Mediator();
         }
     }
 }
