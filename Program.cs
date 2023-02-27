@@ -20,6 +20,7 @@
 
             Behavioral.ChainofResponsibility();
             Behavioral.Command();
+            Behavioral.Iterator();
         }
     }
 }
