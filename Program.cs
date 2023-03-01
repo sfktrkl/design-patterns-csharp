@@ -22,6 +22,7 @@
             Behavioral.Command();
             Behavioral.Iterator();
             Behavioral.Mediator();
+            Behavioral.Memento();
         }
     }
 }
