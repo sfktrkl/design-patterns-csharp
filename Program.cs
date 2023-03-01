@@ -23,6 +23,7 @@
             Behavioral.Iterator();
             Behavioral.Mediator();
             Behavioral.Memento();
+            Behavioral.Observer();
         }
     }
 }
