@@ -24,6 +24,7 @@
             Behavioral.Mediator();
             Behavioral.Memento();
             Behavioral.Observer();
+            Behavioral.State();
         }
     }
 }
