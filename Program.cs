@@ -25,6 +25,7 @@
             Behavioral.Memento();
             Behavioral.Observer();
             Behavioral.State();
+            Behavioral.Strategy();
         }
     }
 }
