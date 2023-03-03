@@ -26,6 +26,7 @@
             Behavioral.Observer();
             Behavioral.State();
             Behavioral.Strategy();
+            Behavioral.TemplateMethod();
         }
     }
 }
