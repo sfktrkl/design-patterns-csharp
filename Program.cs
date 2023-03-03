@@ -27,6 +27,7 @@
             Behavioral.State();
             Behavioral.Strategy();
             Behavioral.TemplateMethod();
+            Behavioral.Visitor();
         }
     }
 }
